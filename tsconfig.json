@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src/",
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "lib": ["dom", "es2017"],
+    "locale": "pt-BR",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "outDir": "./lib/",
+    "rootDir": "./src/",
+    "strict": true,
+    "target": "esnext"
+  },
+  "include": ["./src/**/*"]
+}
